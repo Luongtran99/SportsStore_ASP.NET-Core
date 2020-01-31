@@ -1,0 +1,19 @@
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=SportsStore
+--content-root=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Account\Login.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Admin\Edit.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Admin\Index.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Cart\Index.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Order\Checkout.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Order\Completed.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Order\List.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Product\List.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Product\ProductSummary.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Shared\Components\CartSummary\Default.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Shared\Components\NavigationMenu\Default.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Shared\_AdminLayout.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\Shared\_Layout.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\_ViewImports.cshtml
+--file=E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\Views\_ViewStart.cshtml

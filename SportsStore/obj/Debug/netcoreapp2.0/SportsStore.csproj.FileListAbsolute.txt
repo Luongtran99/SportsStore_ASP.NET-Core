@@ -1,0 +1,22 @@
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+E:\Visual Software\WEB\ASP.NET CORE MVC\Bài tập làm từ sách\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+E:\Visual Software\WEB\ASP.NET CORE MVC\Excersice\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb

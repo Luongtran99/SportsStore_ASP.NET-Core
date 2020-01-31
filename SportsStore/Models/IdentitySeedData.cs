@@ -17,14 +17,17 @@ namespace SportsStore.Models
         {
 
             UserManager<IdentityUser> userManager = app.ApplicationServices.GetRequiredService<UserManager<IdentityUser>>();
+            // UserManager
+            // IdentityUser
 
             IdentityUser user = await userManager.FindByIdAsync(adminUser);
 
+            // if user does not exist, add new 
             if(user == null)
             {
                 user = new IdentityUser("Admin");
                 await userManager.CreateAsync(user, adminPassword);
-
+                // use async and await
             }
         }
 
