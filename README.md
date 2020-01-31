@@ -4,7 +4,7 @@
 
 
 1. This project use ASP.NET CORE version 2.0.0 , if you use older version, you should upgrade to same version to use
-2. I use 
+2. I used 
     "bootstrap": "4.0.0-alpha.6",
     "fontawesome": "4.7.0",
     "jquery": "3.2.1",
